@@ -1,9 +1,5 @@
 # Hamburger
 
-<div align="center" >
-  <video src="./img/hamburgernode.mp4" alt="Video Project" width="450px" controls muted poster="./img/imgcod1.png"></video>
- </div>
-
 ## About the project
 
 Hamburger is a back-end application built during an online class available on Code Club.
@@ -11,7 +7,7 @@ Hamburger is a back-end application built during an online class available on Co
 ### Layout 
 
 <div align="center" >
-  <img src="./img/imgcod1.png" alt="Image Project" height="300px" width="600px">
+  <img src="https://github.com/daianaadepaula/first-node-project/blob/master/img/imgcod1.PNG" alt="Image Project" height="300px" width="600px">
  </div>
 
 ## Technologies used
